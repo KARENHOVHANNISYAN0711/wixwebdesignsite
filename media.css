@@ -1,0 +1,439 @@
+@media only screen and (max-width:1286px){
+      .fa-solid{
+        display:none !important;
+      }
+      .sectionsix-paragraf{
+        font-size:13px;
+      }
+      .sectionfoure-text{
+        width:70%;
+      }
+}
+
+@media only screen and (max-width:1250px){
+    .sectionsix-paragraf{
+      font-size:12px;
+    }
+}
+
+@media only screen and (max-width:1217px){
+    .sectionsix-input-text-displayflex{
+        flex-direction:column;
+    }
+    .sectionsix-paragraf{
+        width:330px;
+        font-size:17px;
+    }
+    .message{
+        width:95%;
+    }
+    .sectionsix-input-par{
+       width:90%;
+    }
+}
+
+@media only screen and (max-width:1180px){
+    .sectionfoure-text{
+        width:80%;
+      }
+}
+
+
+@media only screen and (max-width:1143){
+    .message{
+        width:90%;
+    }
+    .sectionsix-input-par{
+       width:90%;
+    }
+    .input-button-submit{
+        width:500px;
+    }
+}
+
+@media only screen and (max-width:1140px){
+       .sectiontwo-paragraf{
+        font-size:15px;
+       }
+       .sectiontwo-span-text{
+        font-size:18px;
+      }
+}
+
+@media only screen and (max-width:1111px){
+      .input-class{
+        width:100% !important;
+      }
+}
+
+@media only screen and (max-width:1075px){
+    .sectionfoure-text{
+        width:90%;
+      }
+}
+
+@media only screen and (max-width:1020px){
+    .sectiontwo-paragraf{
+        font-size:13px;
+    }
+    .sectiontwo-span-text{
+        font-size:16px;
+   }
+   .sectiontwo-paragraf{
+        font-size:12px;
+   }
+   .sectiontwo-span-text{
+        font-size:15px;
+   }
+}
+
+@media only screen and (max-width:985px){
+    .sectionfoure-text{
+        width:94%;
+      }
+}
+
+@media only screen and (max-width:965px){
+    .sectionfoure-text{
+        width:100%;
+    }
+      .background-attachment{
+    
+    }
+}
+
+@media only screen and (max-width:918px){
+    .sectionfoure-text{
+        padding:10px;
+    }
+}
+
+
+@media only screen and (max-width:890px){
+      .navList>li>a{
+         font-size:15px;
+      } 
+}
+
+@media only screen and (max-width:874px){
+    .sectionfoure-span-text{
+        font-size:15px;
+    }
+    .sectionfoure-span-text-two{
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:850px){
+    .navList>li>a{
+        font-size:14px;
+    }
+    .login-span{
+        font-size:14px;
+    }
+}
+
+@media only screen and (max-width:826px){
+    .sectionfoure-span-text{
+        font-size:12px;
+    }
+    .sectionfoure-span-text-two{
+        font-size:12px;
+    }
+}
+
+
+@media only screen and (max-width:810){
+    .message{
+        width:90%;
+    }
+    .sectionsix-input-par{
+       width:100%;
+    }
+    .input-button-submit{
+        width:500px;
+    }
+}
+
+@media only screen and (max-width:800px){
+    .navList>li>a{
+       font-size:14px;
+    }
+    .login-span{
+        display:none !important;
+    }
+    #nav{
+        display:flex;
+        justify-content:flex-end;
+    }
+    .nav-menu{
+        display:block !important;
+        font-size:30px;
+        color:#FFFFFF;
+    }
+    .navList>li>a{
+        display:none !important;
+    }
+    .nav-login-border-radius{
+        display:none !important;
+    }
+
+    .sectiontwo-wallpaper-par{
+        flex-direction:column;
+        display:flex;
+        justify-content:space-between;
+    }
+    .sectiontwo-wallpaper-text-one{
+        padding:20px;
+    }
+    .sectiontwo-wallpaper-text-two{
+        padding:20px;
+    }
+    .sectiontwo-wallpaper-text-three{
+        padding:20px;
+    }
+    .sectiontwo-paragraf{
+        font-size:17px;
+        text-align:center;
+        padding-top:10px;
+    }
+    .sectiontwo-span-text{
+        font-size:30px;
+    }
+    .sectionthree-wallpaperpar{
+        flex-direction:column;
+        display:flex;
+        justify-content:center;
+        justify-content:space-evenly;
+    }
+    .sectionthree-img{
+        width:60%;
+        margin:0 auto;
+    }
+    .sectionthree-cardownload{
+        width:60%;
+        margin:0 auto;
+    }
+    .sectionthree-carheadlight{
+        width:60%;
+        margin:0 auto;
+    }
+    .sectionthree-whiteheadlight{
+        width:60%;
+        margin:0 auto;
+    }
+    .sectionthree-carstreeringwheel{
+        width:60%;
+        margin:0 auto;
+    }
+    .sectionthree-whitecar{
+        width:60%;
+        margin:0 auto;
+    }
+    .sectionsix-input-par{
+        display:none !important;
+   }
+   .sectionsix-line{
+        display:none;
+   }
+   .sectionfoure-line{
+    display:none;
+   }
+}
+
+@media only screen and (max-width:780){
+    .message{
+        width:95%;
+    }
+    .sectionsix-input-par{
+       width:90%;
+    }
+    .input-button-submit{
+        width:500px;
+    }
+    .input-class{
+        display:none !important;
+    }
+}
+
+@media only screen and (max-width:780px){
+    .sectionsix-h2text{
+        font-size:27;
+    }
+    .sectionsix-paragraf{
+        font-size:14px;
+    }
+}
+
+@media only screen and (max-width:700px){
+    .sectionsix-paragraf{
+        font-size:17px;
+        padding-left:60px;
+    }
+    .sectionsix-h2text{
+        font-size:35px;
+    }
+    .sectionsix-text-par{
+        width:70%;
+    }
+    .sectionfoure-text{
+        width:500px;
+    }
+}
+
+@media only screen and (max-width:635px){
+    .sectionfoure-span-text{
+        width:950px;
+    }
+    .sectionfoure-span-text-two{
+        width:950px;
+    }
+}
+
+@media only screen and (max-width:600px){
+    .sectionsix-paragraf{
+        font-size:17px;
+        padding-left:40px;
+    }
+}
+
+@media only screen and (max-width:565px){
+    .footer-span-text{
+        display:none;
+    }
+    .footer-icon-par{
+        padding-right:160px;
+    }
+}
+
+@media only screen and (max-width:541px){
+    .sectionsix-paragraf{
+        font-size:15px;
+        padding-left:30px;
+    }
+    .sectionsix-h2text{
+        font-size:28px;
+    }
+}
+
+@media only screen and (max-width:520px){
+    .sectionfoure-text{
+        width:350px;
+    }
+    .sovet-img-car{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:506px){
+    .sectionsix-paragraf{
+        font-size:13px;
+        padding-left:30px;
+    }
+    .sectionsix-h2text{
+        font-size:25px;
+    }
+    .sectionthree-img{
+        width:350px;
+    }
+    .sectionthree-cardownload{
+        width:350px;
+    }
+    .sectionthree-carheadlight{
+        width:350px;
+    }
+    .sectionthree-whiteheadlight{
+        width:350px;
+    }
+    .sectionthree-carstreeringwheel{
+        width:350px;
+    }
+    .sectionthree-whitecar{
+        width:350px;
+    }
+}
+
+@media only screen and (max-width:490px){
+    .sectiontwo-paragraf{
+        font-size:13px;
+    }
+    .sectionsix{
+         overflow:scroll;
+    }
+    .sectionsix-paragraf{
+        align-items:center;
+    }
+}
+
+@media only screen and (max-width:470px){
+    .sectionsix-paragraf{
+        padding:13px;
+    }
+}
+
+@media only screen and (max-width:451px){
+    .sectionsix-paragraf{
+        font-size:12px;
+    }
+    .sectionsix-text-par{
+        width:250px;
+    }
+    .sectionsix-paragraf{
+        font-size:16px;
+    }
+}
+
+@media only screen and (max-width:430px){
+    .sectionthree-img{
+        width:250px;
+    }
+    .sectionthree-cardownload{
+        width:250px;
+    }
+    .sectionthree-carheadlight{
+        width:250px;
+    }
+    .sectionthree-whiteheadlight{
+        width:250px;
+    }
+    .sectionthree-carstreeringwheel{
+        width:250px;
+    }
+    .sectionthree-whitecar{
+        width:250px;
+    }
+}
+
+
+@media only screen and (max-width:415px){
+    .sectiontwo-paragraf{
+        font-size:12px;
+    }
+}
+
+@media only screen and (max-width:380px){
+    .sectionfoure-text{
+        width:290px;
+    }
+}
+
+@media only screen and (max-width:370px){
+    .sectionsix-text-par{
+        width:200px;
+    }
+    .sectionsix-paragraf{
+        font-size:10px !important;
+    }
+    .sectionsix-h2text{
+        font-size:30px;
+    }
+    .sovet-img-car{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:326px){
+    .sectiontwo-paragraf{
+        font-size:11px;
+    }
+}
